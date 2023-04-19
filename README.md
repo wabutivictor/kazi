@@ -33,7 +33,7 @@ The 3 user roles are Candidate , Employer and Admin
 Clone the repository:
 
 ```
-git clone https://github.com/wabutivictor/kaziapp.git
+git clone https://github.com/wabutivictor/kazi.git
 ```
 
 Create a virtual environment to install dependencies in and activate it:
