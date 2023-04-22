@@ -1,8 +1,8 @@
 location_choices = {
+    "Remote": "Remote",
     "Maseno": "Maseno",
-    "Nairobi": "Nairobi",
     "Kisumu": "Kisumu",
-    "Remote": "Remote"
+    "Vihiga": "Vihiga"
 }
 
 contract_choices = {

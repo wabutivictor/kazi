@@ -9,10 +9,10 @@ CONTRACT = (
 )
 
 LOCATION = (
-    ('Maseno','Maseno'),
-    ('Nairobi','Nairobi'),
-    ('Kisumu','Kisumu'),
     ('Remote','Remote'),
+    ('Maseno','Maseno'),
+    ('Kisumu','Kisumu'),
+    ('Vihiga','Vihiga'),
 )
 
 
