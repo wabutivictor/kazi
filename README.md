@@ -64,6 +64,6 @@ python manage.py createsuperuser
 
 ### logins
 
-username: admin@maseno.ac.ke
+username: admin@maseno.ac.ke <br>
 password: administrator
 
