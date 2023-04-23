@@ -67,3 +67,10 @@ python manage.py createsuperuser
 username: admin@maseno.ac.ke <br>
 password: administrator
 
+### Users
+
+cit00001019@student.maseno.ac.ke <br>
+cit00002019@student.maseno.ac.ke <br>
+cit00003019@student.maseno.ac.ke <br>
+cit00004019@student.maseno.ac.ke <br>
+cit00005019@student.maseno.ac.ke <br>
